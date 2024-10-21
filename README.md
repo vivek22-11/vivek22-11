@@ -1,4 +1,3 @@
-Here’s the ready-to-paste version:
 
 # 👋 Hi, I’m @vivek22-11
 
